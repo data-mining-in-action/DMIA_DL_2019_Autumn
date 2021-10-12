@@ -3,5 +3,5 @@ matplotlib==3.0.3
 numpy==1.16.2
 pandas==0.24.2
 tqdm==4.28.1
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 scikit-image==0.14.2
